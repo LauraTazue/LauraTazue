@@ -1,17 +1,13 @@
 
-
-
-
-
-<h1 align="center">Hi 👋, I'm Laura Chirazawa</h1>
+<h1 align="center">Olá 👋, sou Laura Chirazawa</h1>
 <h4>Pronouns: Ela/Ella/She<h4>
 <h3 align="center">Gosto muito de Tecnologia principalmente da área de dados</h3>
 
-- 🌱 I’m currently learning **Inglês e Machine learning**
+- 🌱 atualmente estou aprendendo **Inglês e Machine learning**
 
-- 📫 How to reach me **laura.chirazawa@gmail.com**
+- 📫 Como me achar **laura.chirazawa@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/laura-chirazawa/](https://www.linkedin.com/in/laura-chirazawa/)
+- 📄 Conheça minhas experiências [https://www.linkedin.com/in/laura-chirazawa/](https://www.linkedin.com/in/laura-chirazawa/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
