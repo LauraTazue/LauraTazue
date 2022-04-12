@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Laura Chirazawa</h1>
-<h2>😄 Pronouns: Ela/Ella/She<h2>
+<h4>Pronouns: Ela/Ella/She<h4>
 <h3 align="center">Gosto muito de Tecnologia principalmente da área de dados</h3>
 
 - 🌱 I’m currently learning **Inglês e Machine learning**
