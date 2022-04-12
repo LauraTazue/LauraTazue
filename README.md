@@ -3,7 +3,7 @@
 <h4>Pronouns: Ela/Ella/She<h4>
 <h3 align="center">Gosto muito de Tecnologia principalmente da área de dados</h3>
 
-- 🌱 atualmente estou aprendendo **Inglês e Machine learning**
+- 🌱 Atualmente estou aprendendo **Inglês e Machine learning**
 
 - 📫 Como me achar **laura.chirazawa@gmail.com**
 
